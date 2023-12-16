@@ -11,7 +11,7 @@
 3. Data in PostgreSQL
 
 
-# It's better than google drive really
+## It's better than google drive really
 
 1. **Simple File Storage:** Upload/download/remove files
 2. **Note Management:** Add/update/remove text notes
