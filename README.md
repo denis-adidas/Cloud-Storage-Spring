@@ -24,7 +24,7 @@ and website credentials on a server.
  
 1. The back-end with Spring Boot
 2. The front-end with Thymeleaf
-3. 3. Data in PostgreSQL
+3. Data in PostgreSQL
 
 
 ## Запуск\Launch: 
