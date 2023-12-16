@@ -36,7 +36,7 @@ and website credentials on a server.
 Открыть свой браузер и написать localhost:8080/ (если не работает, то localhost:8080/login)
 Open your browser and enter localhost:8080/ (if it isn't work, then localhost:8080/login)
 
-P.S:
+## P.S:
 Нужно в application.propertis поменять базу данных на свою. Таблица должна будет создаться автоматически, но если не создаться, то потребуется создать 4 таблицы: files, users, notes, credentials. 
 You need change DB in application.propertis. Table should be create automatically, but if not, then you need create 4 tables: files, users, notes, credentials.
 
