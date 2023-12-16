@@ -34,6 +34,7 @@ and website credentials on a server.
 3. java -jar cloudstorage-0.0.1-SNAPSHOT.jar
 
 Открыть свой браузер и написать localhost:8080/ (если не работает, то localhost:8080/login)
+
 Open your browser and enter localhost:8080/ (if it isn't work, then localhost:8080/login)
 
 ## P.S:
